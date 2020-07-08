@@ -1,0 +1,47 @@
+        body{font-family: 'Poppins', sans-serif;}
+    .container{margin-bottom:100px;}
+        .navbar {background-color:#ddf5dd75;margin:auto}
+    #navigation{margin-bottom:0;}
+    .top-text{padding-left:50px;}
+    .top-image{padding-right:50px;}
+      .nav-link{color:black}
+.sign-in-button{background-color:#21B573;
+                padding-right:20px;
+                padding-left:30px;border:none;
+                padding-bottom:10px;
+                padding-top:10px;
+                border-radius:20px;
+                color:white;
+                text-align:center}
+
+    .top-text{margin-left:0px}
+.get-started{background-color:#21B573;
+            padding:10px;
+            border-radius:20px;color:white;
+            border:none}
+
+.book-bg{background-color:#ddf5dd75;
+            padding-top:10px;width:200px;
+            height:150px;border-radius:10px;}     
+    .s-book{border:none;border-radius:10px;height:150px;
+            padding-top:10px;width:200px;
+            box-shadow:5px 5px 20px lightgray} 
+.book-bg:hover{background-image:linear-gradient(45deg,rgb(43, 255, 0),black);
+            color:white;transform:scale(1.1);
+            transition:background-image,1s}
+    .line{width:200px;padding:5px;
+            background-image:linear-gradient(45deg,rgb(5, 5, 5),rgb(9, 9, 247));
+             border-radius:20px;margin:auto} 
+.card-image{height:25%;margin:15px;}
+    .card{border:none;box-shadow:5px 5px 10px lightgray;
+            margin:15px;}
+.card-footer{border:none;
+            background-color: white;}
+ 
+    footer{width:1440px;height:369px;
+        background-color:#282531;}
+#footer{margin-bottom:0 ;;}
+#footer1{background-color: #282531;
+        margin-bottom:50px;}
+ 
+          
